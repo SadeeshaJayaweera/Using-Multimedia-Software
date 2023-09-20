@@ -1,6 +1,8 @@
 Git Readme for Course Work - Using Multimedia Software
 =====================================================
 
+<img src ='project.png'>
+
 This is a Git readme file for a course work project on using multimedia software. The project was done for the International Advanced Level (UK High School) Applied ICT subject. The project consists of the following sections:
 
 1. Home: Introduction to the project and its objectives.
